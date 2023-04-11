@@ -19,8 +19,8 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/XiezhoID"><img height="220" title="Top-Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xcod3bughunt3r&layout=compact&langs_count=70&theme=radical&hide_border=true"/></a></p>
-<p align="center"><a href="https://github.com/Xcod3bughunt3r"><img height="95" title="Counter" src="https://github-profile-trophy.vercel.app/?username=XiezhoID=1&theme=radical&no-frame=true"/></a></p>
+<p align="center"><a href="https://github.com/XiezhoID"><img height="220" title="Top-Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiezhoID&layout=compact&langs_count=70&theme=radical&hide_border=true"/></a></p>
+<p align="center"><a href="https://github.com/Xcod3bughunt3r"><img height="95" title="Counter" src="https://github-profile-trophy.vercel.app/?username=Xcod3bughunt3r=1&theme=radical&no-frame=true"/></a></p>
 
 <br>
 
